@@ -1,9 +1,11 @@
 # Frontend Mentor - Meet landing page solution
 
 ### Screenshot
-
+##Desktop Screenhot
 ![Desktop Design](MeetLandingPageDesktopScreenshot.png)
+##Tablet Screenshot
 ![Tablet Design](MeetLandingPageTabletDesignScreenshot.png)
+##Mobile Screenshot
 ![Mobile Design](MeetLandingPageMobileScreenshot.png)
 
 ### Links
@@ -24,5 +26,5 @@
 ## Author
 
 - Website - [tugcekizildg](https://github.com/tugcekizildg)
-- Frontend Mentor - [@tugcekizildg](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@tugcekizildg](https://www.frontendmentor.io/profile/tugcekizildg)
 
